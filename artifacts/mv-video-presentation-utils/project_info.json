@@ -1,0 +1,13 @@
+{
+   "project_dir" : "mv_video_presentation_utils",
+   "installed_directory_layout" : "project_directories-full_project.gmk",
+   "package_name" : "mv-video-presentation-utils",
+   "ticket" : "",
+   "AUTOMATION_GROUP" : "iasnetauto",
+   "USE_AUTOMATION_PERMISSIONS" : 0,
+   "summary" : "Utilities that help with video presentations",
+   "AUTOMATION_USER" : "iasnetauto",
+   "BASE_DIR" : "/opt/IAS",
+   "project_name" : "mv_video_presentation_utils",
+   "wiki_page" : ""
+}
