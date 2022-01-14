@@ -6,6 +6,8 @@
 # apparently you need to use -safe 0 if you're doing process substitution
 # ffmpeg -i abstract1.mkv abstract1.mp4
 
+# ./process.sh <( ./gen_list.sh ../input/2022-nercomp/ondemand_1/ ) ../output mkv ondemand_1_v2
+
 input_file="$1" ; shift
 output_directory="$1"; shift
 output_format="$1"; shift;
